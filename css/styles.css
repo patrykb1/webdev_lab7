@@ -1,0 +1,43 @@
+body{
+	background:linear-gradient(to right, black, purple);
+	font-family: "Fira Sans", sans-serif;
+	font-weight: 300;
+}
+h1 {
+	width: 551.146px;
+	padding: 10px;
+	color: white;
+	font-family: "Fira Sans", sans-serif;
+	font-weight: 900;
+}
+.heading{
+	background-color: #b5a4ba;
+	color: black;
+	font-weight: 600;
+}
+#planets, h1{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+th, td {
+  border: 1px solid #d0d0d0;
+  padding: 8px;
+  text-align: center;
+}
+
+td{
+	color: white;
+}
+th {
+  background-color: #c12ef2;
+  color: white;
+	font-family: "Fira Sans", sans-serif;
+	font-weight: 600;
+}
+
+img {
+  width: 80px;
+  height: auto;
+}
